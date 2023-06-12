@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(59 193 215);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(240, 245, 250);
+}
+input{
+    margin-left: 20px;
+    border: 3px solid #bb3131;
+    border-radius: 25px;
+    text-align: center;
+    height: 27px;
+    width: 317px;
+    margin: 5px;
+}
+form{
+    font-size: 25px;
+    padding: auto;
+    text-align: center;
+    color: rgb(6, 7, 78);
+}
+#i1{
+    margin-left: 136px;
+}
+#i2{
+    margin-left: 120px;
+    height: auto;
+}
+#id2{
+    height: 20px;
+    width: 80px;
+}
+#i3{
+    margin-left: 130px;
+}
+#i4{
+    margin-left: 135px;
+}
+#i5{
+    margin-left: 96px;
+}
+button{
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    height: 50;
+    width: 190px;
+    margin-top: 25px;
+    margin-left: 115px;
+    font-size: 30px;
+    background: #00dc11;
+    cursor: pointer;
+}
+#btn{
+ margin-left: 632px;  
+ margin-top: -4PX;
+  
+}
+h4{
+    margin-left: 583px; 
+}
